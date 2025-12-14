@@ -1,17 +1,4 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>我的个人主页 — gql6210</title>
-  <style>
-    body{font-family:Arial,Helvetica,sans-serif;max-width:800px;margin:40px auto;padding:0 16px;line-height:1.6}
-    header{border-bottom:1px solid #eee;padding-bottom:12px;margin-bottom:24px}
-    h1{margin:0}
-    .links a{margin-right:12px}
-  </style>
-</head>
-<body>
+
   <header>
     <h1>你好，我是 gql6210</h1>
     <p>这是我的个人主页，欢迎访问。</p>
