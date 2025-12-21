@@ -1,7 +1,7 @@
 <body>
   <header>
     <h1>你好，我是 gql6210</h1>
-    <p>这是我的 GitHub Pages 个人主页示例。</p>
+    <p>这是我的 GitHub 个人主页。</p>
   </header>
   <main>
     <section>
