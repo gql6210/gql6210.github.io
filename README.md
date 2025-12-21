@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>gql6210 的个人主页</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; padding: 2rem; color:#222; }
-    header { margin-bottom: 1.5rem; }
-  </style>
-</head>
 <body>
   <header>
     <h1>你好，我是 gql6210</h1>
