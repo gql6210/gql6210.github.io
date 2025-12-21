@@ -1,28 +1,27 @@
-
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>gql6210 的个人主页</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; padding: 2rem; color:#222; }
+    header { margin-bottom: 1.5rem; }
+  </style>
+</head>
+<body>
   <header>
     <h1>你好，我是 gql6210</h1>
-    <p>这是我的个人主页，欢迎访问。</p>
+    <p>这是我的 GitHub Pages 个人主页示例。</p>
   </header>
-
-  <section>
-    <h2>关于我</h2>
-    <p>写一些自我介绍、技能、项目或联系方式。</p>
-  </section>
-
-  <section>
-    <h2>项目</h2>
-    <ul>
-      <li><a href="#">项目 A</a></li>
-      <li><a href="#">项目 B</a></li>
-    </ul>
-  </section>
-
-  <footer style="margin-top:36px;border-top:1px solid #eee;padding-top:12px;color:#666">
-    <div class="links">
-      <a href="https://github.com/gql6210">GitHub</a>
-      <a href="#">邮件</a>
-    </div>
-    <small>© 2025 gql6210</small>
+  <main>
+    <section>
+      <h2>关于我</h2>
+      <p>在这里写一些自我介绍、项目链接或联系方式。</p>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 gql6210</p>
   </footer>
 </body>
 </html>
